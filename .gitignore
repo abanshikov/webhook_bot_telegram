@@ -1,0 +1,12 @@
+/node_modules/*
+/dist/*
+/references/*
+/data/references/*
+/venv/
+.git/
+.cache/
+.idea/
+.vscode/
+__pycache__/
+**/*/__pycache__/
+**/Thumbs.db
